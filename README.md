@@ -1,3 +1,5 @@
+Set properties following [this link](https://docs.spring.io/spring-ai/reference/api/chat/bedrock/bedrock-anthropic3.html)
+
 Run Spring boot application
 
 Call API
